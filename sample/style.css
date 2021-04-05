@@ -1,0 +1,127 @@
+#top  {
+  background-color: #add8e6;
+  font-size: 130%;
+}
+#centre{
+	background-color: #301934;
+	height: 300px;
+
+}
+
+
+#round{
+	border-radius: 100px;
+}
+#data{
+	vertical-align: center;
+	font-weight: bold;
+	color: white;
+}
+
+#fbottom{
+	float: bottom;
+	display: block;
+	color: white !important;
+}
+
+#bor{
+	 border:2px solid #FF00FF;
+	color: white !important;
+	border-color: #0000FF
+	padding: 10px;
+	background-color: white;
+}
+span {
+	height: 60px;
+ 
+ line-height: 60px;
+ 
+ text-align: center;
+ 
+}
+#fright{
+	float: right;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+a:hover {
+  background-color: #2F859F !important;
+  color: black !important;
+}
+a:active {
+  background-color: #2196F3;
+  color: white;
+}
+a:link{
+	 color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+.float-child {
+    width: 30%;
+    float: left;
+    padding: 20px;
+    border: 2px;
+    height: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 45px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 70px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998 !important;
+  color: white !important;
+}
+
+.fa-twitter {
+  background: #55ACEE !important;
+  color: white !important;
+}
+#down{
+	margin-top: 60px;
+}
+
+#last  {
+  background-color: #add8e6;
+  font-size: 130%;
+  height: 300px;
+}
+#l1{
+	background-color: white;
+	width: 25%;
+    float: left;
+    padding: 5px;
+    height: 100%;
+	float:left;
+	border-radius: 40px;
+}
+#l2{
+	width: 73%;
+    float: left;
+    padding: 5px;
+    height: 100%;
+	background-color:  #301934;
+	float:left;
+	color:white;
+	border-radius: 40px;
+}
+a:hover #L1{
+  background-color: #ddd;
+  color: black;
+  text-align: center;
+}
